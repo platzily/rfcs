@@ -8,7 +8,7 @@ fi
 
 printf '[Introduction](introduction.md)\n\n' > src/SUMMARY.md
 
-printf '# Accepted \n\n' > src/SUMMARY.md
+printf '# Accepted \n\n' >> src/SUMMARY.md
 
 find ./text/accepted ! -type d -print0 | xargs -0 -I {} ln -frs {} -t src/
 
@@ -19,7 +19,7 @@ do
     printf -- '- [%s](%s)\n' "$(basename "$file" ".md")" "$(basename "$file")"
 done >> src/SUMMARY.md
 
-printf '# Implemented \n\n' > src/SUMMARY.md
+printf '# Implemented \n\n' >> src/SUMMARY.md
 
 
 find ./text/implemented ! -type d -print0 | xargs -0 -I {} ln -frs {} -t src/
@@ -33,4 +33,4 @@ done >> src/SUMMARY.md
 
 ln -frs README.md src/introduction.md
 
-mdbook build
+# mdbook build
