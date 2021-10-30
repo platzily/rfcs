@@ -73,13 +73,13 @@ Thank you for being here, we're really happy you decided to create a RFC.
 
 Before you contribute to the project please make sure to read all items below.
 
-* [Code of Conduct](/CODE_OF_CONDUCT.md)
-* [Contributing Guide](/CONTRIBUTING.md)
+* [Code of Conduct](https://github.com/platzily/rfcs/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing Guide](https://github.com/platzily/rfcs/blob/main/CONTRIBUTING.md)
 
 
 ### License
 
-Platzily RFCs is [MIT licensed](./LICENSE).
+Platzily RFCs is [MIT licensed](https://github.com/platzily/rfcs/blob/main/LICENSE).
 
 ## Inspiration
 

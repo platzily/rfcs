@@ -20,4 +20,4 @@ Use [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) when 
 
 ## License
 
-By contributing your code to the platzily/rfcs GitHub repository, you agree to license your contribution under the [MIT license](/LICENSE).
+By contributing your code to the platzily/rfcs GitHub repository, you agree to license your contribution under the [MIT license](https://github.com/rust-lang/rfcs).

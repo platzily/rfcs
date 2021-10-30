@@ -8,6 +8,10 @@ fi
 
 printf '[Introduction](introduction.md)\n\n' > src/SUMMARY.md
 
+printf '[Contributing](contributing.md)\n\n' > src/SUMMARY.md
+
+printf '[Code of conduct](code_of_conduct.md)\n\n' > src/SUMMARY.md
+
 printf '# Accepted \n\n' >> src/SUMMARY.md
 
 find ./text/accepted ! -type d -print0 | xargs -0 -I {} ln -frs {} -t src/
@@ -32,5 +36,9 @@ do
 done >> src/SUMMARY.md
 
 ln -frs README.md src/introduction.md
+
+ln -frs CONTRIBUTING.md src/contributing.md
+
+ln -frs CODE_OF_CONDUCT.md src/code_of_conduct.md
 
 mdbook build
