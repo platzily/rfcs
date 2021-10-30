@@ -4,7 +4,7 @@ We want to make contributing to this project as easy and transparent as possible
 
 ## Issues
 
-Issues are not meant to be written in this repository. RFC are based on PR, those proposals will come from an issue indeed, but the issue is meant to be written in the repository of the project the RFC will be implemented. For example, lets say you would like propose a change on [Platzily UI](https://github.com/platzily/platzily-ui), then you would open an issue there related to the proposal, after that is done you will follow the PR section and create the RFC. Any issue created in this repository will be closed.
+Issues are not meant to be written in this repository, unless is a bug report for the generated site. If that is not the case, RFC are based on PR, those proposals will come from an issue indeed, but the issue is meant to be written in the repository of the project the RFC will be implemented. For example, lets say you would like propose a change on [Platzily UI](https://github.com/platzily/platzily-ui), then you would open an issue there related to the proposal, after that is done you will follow the PR section and create the RFC. Any issue created in this repository will be closed.
 
 ## Pull Requests
 
