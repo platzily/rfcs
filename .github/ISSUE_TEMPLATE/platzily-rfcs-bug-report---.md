@@ -53,7 +53,6 @@ Steps:
 
 | Tech                 | Version |
 | -------------------- | ------- |
-| Platzily UI          | v?.?.?  |
 | Browser (Chrome)     |         |
 | OS (Linux, Windows)  |         |
 | Further comments?    |         |
