@@ -33,4 +33,4 @@ done >> src/SUMMARY.md
 
 ln -frs README.md src/introduction.md
 
-# mdbook build
+mdbook build
