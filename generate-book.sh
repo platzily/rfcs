@@ -8,9 +8,9 @@ fi
 
 printf '[Introduction](introduction.md)\n\n' > src/SUMMARY.md
 
-printf '[Contributing](contributing.md)\n\n' > src/SUMMARY.md
+printf '[Contributing](contributing.md)\n\n' >> src/SUMMARY.md
 
-printf '[Code of conduct](code_of_conduct.md)\n\n' > src/SUMMARY.md
+printf '[Code of conduct](code_of_conduct.md)\n\n' >> src/SUMMARY.md
 
 printf '# Accepted \n\n' >> src/SUMMARY.md
 
