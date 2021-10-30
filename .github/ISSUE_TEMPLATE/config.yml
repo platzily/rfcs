@@ -1,0 +1,4 @@
+contact_links:
+    - name: 🏗 Feature Request or Proposal
+      about: To submit a feature request or a proposal, follow the RFC process and send a pull request. Do NOT create issues for proposals.
+      url: https://github.com/platzily/rfcs#what-the-process-is
