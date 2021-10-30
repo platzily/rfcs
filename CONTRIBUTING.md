@@ -11,7 +11,7 @@ Issues are not meant to be written in this repository, unless is a bug report fo
 We actively welcome your pull requests.
 
 1. Fork the repo and create your branch from `main`.
-2. Copy `0000-template.md` to `text/0000-my-feature.md` (where 'my-feature' is descriptive. Don't assign an RFC number yet).
+2. Copy `0000-template.md` to `text/accepted/0000-my-feature.md` (where 'my-feature' is descriptive. Don't assign an RFC number yet).
 3. Submit the PR using the content of the RFC as the description.
 
 ## Commits
