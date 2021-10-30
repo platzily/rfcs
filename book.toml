@@ -1,0 +1,5 @@
+[book]
+title = "The Platzily RFC Book"
+
+[output.html]
+git-repository-url = "https://github.com/platzily/rfcs"
